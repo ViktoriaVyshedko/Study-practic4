@@ -13,4 +13,6 @@
 
 ![Иллюстрация к проекту](https://github.com/ViktoriaVyshedko/Study-practic4/raw/main/homework/plots/mnist_residual.png)
 
+Количество параметров в полносвязной модели чуть больше, чем в простой сверточной, а в сверточной модели с residual-блоками их намного меньше.
+
 1.2
